@@ -6,130 +6,122 @@ config();
 
 const songs = [
 	{
-		title: "Stay With Me",
-		artist: "Sarah Mitchell",
+		title: "Hanuman Chalisa",
+		artist: "Gulshan Kumar",
 		imageUrl: "/cover-images/1.jpg",
 		audioUrl: "/songs/1.mp3",
-		duration: 46, // 0:46
+		duration: 581, 
 	},
 	{
-		title: "Midnight Drive",
-		artist: "The Wanderers",
+		title: "Meethe Ras Se Bhari",
+		artist: "Anup Jalota",
 		imageUrl: "/cover-images/2.jpg",
 		audioUrl: "/songs/2.mp3",
-		duration: 41, // 0:41
+		duration: 410, 
 	},
 	{
-		title: "Lost in Tokyo",
-		artist: "Electric Dreams",
+		title: "Kabhi Na Kabhi",
+		artist: "Aditya Narayan",
 		imageUrl: "/cover-images/3.jpg",
 		audioUrl: "/songs/3.mp3",
-		duration: 24, // 0:24
+		duration: 410, 
 	},
 	{
-		title: "Summer Daze",
-		artist: "Coastal Kids",
+		title:"Falk Tk Chal Sath Mere",
+		artist: "Udit Narayan",
 		imageUrl: "/cover-images/4.jpg",
 		audioUrl: "/songs/4.mp3",
-		duration: 24, // 0:24
+		duration: 384, 
 	},
 	{
-		title: "Neon Lights",
-		artist: "Night Runners",
+		title: "Tu Hi Haqeeqat",
+		artist: "Emraan Hashmi",
 		imageUrl: "/cover-images/5.jpg",
 		audioUrl: "/songs/5.mp3",
-		duration: 36, // 0:36
-	},
+		duration: 332	},
 	{
-		title: "Mountain High",
+		title: "Safari Serena",
 		artist: "The Wild Ones",
 		imageUrl: "/cover-images/6.jpg",
 		audioUrl: "/songs/6.mp3",
-		duration: 40, // 0:40
+		duration: 210, 
 	},
 	{
-		title: "City Rain",
-		artist: "Urban Echo",
+		title: "Hua H Aaj Phli Baar",
+		artist: "Arman Malik",
 		imageUrl: "/cover-images/7.jpg",
 		audioUrl: "/songs/7.mp3",
-		duration: 39, // 0:39
+		duration: 545, 
 	},
 	{
-		title: "Desert Wind",
-		artist: "Sahara Sons",
+		title: "Jo Tum Mere Ho",
+		artist: "Anuv Jain",
 		imageUrl: "/cover-images/8.jpg",
 		audioUrl: "/songs/8.mp3",
-		duration: 28, // 0:28
+		duration: 290, 
 	},
 	{
-		title: "Ocean Waves",
-		artist: "Coastal Drift",
+		title: "Dil Ibaadat",
+		artist: "Emraan Hashmi",
 		imageUrl: "/cover-images/9.jpg",
 		audioUrl: "/songs/9.mp3",
-		duration: 28, // 0:28
+		duration: 394, 
 	},
 	{
-		title: "Starlight",
-		artist: "Luna Bay",
+		title: "Titli",
+		artist: "Chinmayi, Gopi Sunder",
 		imageUrl: "/cover-images/10.jpg",
 		audioUrl: "/songs/10.mp3",
-		duration: 30, // 0:30
+		duration: 389, 
 	},
 	{
-		title: "Winter Dreams",
-		artist: "Arctic Pulse",
+		title: "Pal Pal Dil Ke Paas",
+		artist: "Arjit Singh",
 		imageUrl: "/cover-images/11.jpg",
 		audioUrl: "/songs/11.mp3",
-		duration: 29, // 0:29
+		duration: 239, 
 	},
 	{
-		title: "Purple Sunset",
-		artist: "Dream Valley",
+		title: "Sajni",
+		artist: "Arjit Singh",
 		imageUrl: "/cover-images/12.jpg",
 		audioUrl: "/songs/12.mp3",
-		duration: 17, // 0:17
+		duration: 209, 
 	},
 	{
-		title: "Neon Dreams",
-		artist: "Cyber Pulse",
+		title: "Sorry",
+		artist: "Justin Bieber",
 		imageUrl: "/cover-images/13.jpg",
 		audioUrl: "/songs/13.mp3",
-		duration: 39, // 0:39
+		duration: 239, 
 	},
 	{
-		title: "Moonlight Dance",
-		artist: "Silver Shadows",
+		title: "Maula Mere Maula",
+		artist: "Roop Kumar Rathod",
 		imageUrl: "/cover-images/14.jpg",
 		audioUrl: "/songs/14.mp3",
-		duration: 27, // 0:27
+		duration: 414, 
 	},
 	{
-		title: "Urban Jungle",
-		artist: "City Lights",
+		title: "Todha Todha Pyaar",
+		artist: " Sidharth Malhotra & Neha Sharma",
 		imageUrl: "/cover-images/15.jpg",
 		audioUrl: "/songs/15.mp3",
-		duration: 36, // 0:36
+		duration: 269, 
 	},
 	{
-		title: "Crystal Rain",
-		artist: "Echo Valley",
+		title: "Siddat",
+		artist: "Sunny Kaushal,Radhika Madan",
 		imageUrl: "/cover-images/16.jpg",
 		audioUrl: "/songs/16.mp3",
-		duration: 39, // 0:39
+		duration: 243, 
 	},
 	{
-		title: "Neon Tokyo",
-		artist: "Future Pulse",
+		title: "Chitta",
+		artist: "Sunny Kaushal,Radhika Madan",
 		imageUrl: "/cover-images/17.jpg",
 		audioUrl: "/songs/17.mp3",
-		duration: 39, // 0:39
-	},
-	{
-		title: "Midnight Blues",
-		artist: "Jazz Cats",
-		imageUrl: "/cover-images/18.jpg",
-		audioUrl: "/songs/18.mp3",
-		duration: 29, // 0:29
+		duration: 243, 
 	},
 ];
 
