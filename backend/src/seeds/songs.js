@@ -123,6 +123,70 @@ const songs = [
 		audioUrl: "/songs/17.mp3",
 		duration: 243, 
 	},
+	{
+		title: "Jo Tere Sang",
+		artist: "DJ Cruz R",
+		imageUrl: "/cover-images/18.jpg",
+		audioUrl: "/songs/18.mp3",
+		duration: 282, 
+	},
+	{
+		title: "Tere Liye",
+		artist: "Atif Aslam",
+		imageUrl: "/cover-images/19.jpg",
+		audioUrl: "/songs/19.mp3",
+		duration: 179, 
+	}, 
+	{
+		title: "Millionaire",
+		artist: "Honey Singh",
+		imageUrl: "/cover-images/20.jpg",
+		audioUrl: "/songs/20.mp3",
+		duration: 210, 
+	},
+	{
+		title: "Payal",
+		artist: "Honey Singh",
+		imageUrl: "/cover-images/21.jpg",
+		audioUrl: "/songs/21.mp3",
+		duration: 231, 
+	}, 
+	{
+		title: "Bonita",
+		artist: "Honey Singh",
+		imageUrl: "/cover-images/22.jpg",
+		audioUrl: "/songs/22.mp3",
+		duration: 184, 
+	}, 
+	{
+		title: "Blue Eyes",
+		artist: "Honey Singh",
+		imageUrl: "/cover-images/23.jpg",
+		audioUrl: "/songs/23.mp3",
+		duration: 242, 
+	}, 
+	{
+		title: "Desi Kalakar",
+		artist: "Honey Singh",
+		imageUrl: "/cover-images/24.jpg",
+		audioUrl: "/songs/24.mp3",
+		duration: 597, 
+	}, 
+	{
+		title: "Hass Hass",
+		artist: "Diljit Dosanjh",
+		imageUrl: "/cover-images/25.jpg",
+		audioUrl: "/songs/25.mp3",
+		duration: 152, 
+	},
+	{
+		title: "Born To Shine",
+		artist: "Diljit Dosanjh",
+		imageUrl: "/cover-images/26.jpg",
+		audioUrl: "/songs/26.mp3",
+		duration: 218, 
+	}, 
+
 ];
 
 const seedSongs = async () => {
